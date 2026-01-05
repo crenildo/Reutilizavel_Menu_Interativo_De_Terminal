@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Reutilizavel_Menu_Interativo_De_Terminal.iml" filepath="$PROJECT_DIR$/.idea/Reutilizavel_Menu_Interativo_De_Terminal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reutilizavel_Menu_Interativo_De_Terminal.iml" filepath="$PROJECT_DIR$/Reutilizavel_Menu_Interativo_De_Terminal.iml" />
     </modules>
   </component>
 </project>
